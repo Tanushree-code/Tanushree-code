@@ -3,7 +3,9 @@
 - 👀 I’m interested in Front-end development as well as in marketing stuff.
 - 🌱 I’m currently learning React JS and data structure &algorithms.
 
-- 💞️ I’m looking to collaborate on ...
+- �Things I could do:
+- .Html5,css3,JavaScript,Bootstrap,Bulma
+- .My IDE Visual Studio Code and Eclips.
 - 📫 you can connect me here tnnyb323@gmail.com
 
 <!---
