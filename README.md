@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tnnyb323@gmail.com**
 
-- ⚡ Fun fact **I think I am funny AF**
+- ⚡ Fun fact **I don't have friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
