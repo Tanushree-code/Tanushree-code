@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanushree Badhai</h1>
-<h3 align="center">I am an Enthusiastic learner and always ready to take in new technology & tools. Skilled in jQuery, HTML, JavaScript, Css, Oop, Leadership, and Microsoft Power Point . Strong operations professional with a Bachelor of Technology - BTech focused in Electrical engineering (Undergraduate) from Government College of Engineering, Kalahandi.</h3>
+<h3 align="center">I am an Enthusiastic learner and always ready to take in new technology & tools. Skilled in java, HTML, DSA, Css, Oop, Leadership, and Microsoft Power Point .Bachelor of Technology at Government College of Engineering, Kalahandi.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushree-code&label=Profile%20views&color=0e75b6&style=flat" alt="tanushree-code" /> </p>
 
